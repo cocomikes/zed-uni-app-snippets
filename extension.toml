@@ -1,10 +1,10 @@
-id = "uni-app-snippets"
-name = "uni-app Snippets"
-version = "0.13.0"
+id = "cocomikes-uni-app-snippets"
+name = "uni-app Snippets by cocomikes"
+version = "0.13.1"
 schema_version = 1
-authors = ["uni-helper"]
-description = "为 uni-app 提供基本能力代码片段。"
-repository = "https://github.com/uni-helper/uni-app-snippets-vscode"
+authors = ["cocomikes"]
+description = "Code snippets for uni-app development."
+repository = "https://github.com/cocomikes/zed-uni-app-snippets"
 snippets = [
   "./snippets/vue.json",
   "./snippets/vue.js.json",
