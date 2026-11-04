@@ -1,0 +1,20 @@
+id = "uni-app-snippets"
+name = "uni-app Snippets"
+version = "0.13.0"
+schema_version = 1
+authors = ["uni-helper"]
+description = "为 uni-app 提供基本能力代码片段。"
+repository = "https://github.com/uni-helper/uni-app-snippets-vscode"
+snippets = [
+  "./snippets/vue.json",
+  "./snippets/vue.js.json",
+  "./snippets/html.json",
+  "./snippets/css.json",
+  "./snippets/less.json",
+  "./snippets/scss.json",
+  "./snippets/sass.json",
+  "./snippets/stylus.json",
+  "./snippets/javascript.json",
+  "./snippets/typescript.json",
+  "./snippets/jsonc.json",
+]
